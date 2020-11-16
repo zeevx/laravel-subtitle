@@ -1,4 +1,4 @@
-#LaraSubtitle
+# LaraSubtitle
 
 A full subtitle web site built with VueJs and Laravel.
 
